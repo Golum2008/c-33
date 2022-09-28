@@ -21,7 +21,7 @@ var bubble,bubble_img;
 function preload()
 {
   bubble_img = loadImage("bubble.png")
-  bg_img = loadImage('background.png');
+  bg_img = loadImage('watermelon.png.jpg');
   food = loadImage('melon.png');
   rabbit = loadImage('Rabbit-01.png');
 
